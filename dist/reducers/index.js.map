@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["module","exports","user","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB;AACfC,QAAMC,QAAQ,QAAR;AADS,CAAjB","file":"index.js","sourcesContent":["module.exports = {\n  user: require('./user')\n}\n"]}

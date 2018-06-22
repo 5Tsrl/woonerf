@@ -1,0 +1,1 @@
+{"version":3,"sources":["user.js"],"names":["logout","setAuth0User"],"mappings":";;;;;;;AAAA;;;;;;AAEO,IAAMA,0BAAS,4BAAa,SAAb,CAAf;AACA,IAAMC,sCAAe,4BAAa,gBAAb,CAArB","file":"user.js","sourcesContent":["import createAction from 'redux-actions/lib/createAction'\n\nexport const logout = createAction('log out')\nexport const setAuth0User = createAction('set auth0 user')\n"]}
